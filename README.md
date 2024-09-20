@@ -13,7 +13,7 @@ Steps:
 2. With probuilder a plane shape is created, placed in the middle of the terrain and subdivided 4 times.
 
 ![image](https://github.com/user-attachments/assets/76bd29b9-d687-4a4f-815d-d6f430d5d0c6)
-![image](https://github.com/user-attachments/assets/ca18a46a-1f03-4bc1-b08e-ca9b902b5935)
+![image](https://github.com/user-attachments/assets/156c96c9-92be-44e5-8e62-9339ca0eaddb)
 
 3. Per layer, each face was extruded by 1.5 to simulate a pyramid structure.
 
