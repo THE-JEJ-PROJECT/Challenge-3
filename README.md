@@ -45,7 +45,12 @@ In the south of Mexico, in Tinum, Yucatan, there exists a monumental site called
 
 Experience gained:
 
+Jeremy:
+
+In this challenge I learned how to do a few things such as using the pro builder tool, working with terrains and textures, and using the unity assets store. When searching for assets to place on the map, I came across a lot of packages in the unity store that ranged from low to high prices. For the purposes of this challenge, I chose from the asset packages that were free. Choosing the assets was my favorite part of the challenge, along with the terrain implementation.
+
 Eduardo:
+
 For this challange I learned to get used to probuilder and how to work around its planes and other shapes. On top of that how to make efficient use subdivision of faces or bevels for edges. With this experience, I can facilitate making complex builds out of simple shapes by modifying its vertices. Materials and texturing was another thing I learned about when it came to already established meshes or terrains. Finally I got to use the Unity asset store to import community made models, that facilitate the need of making my own characters or enviroments, which would make for great placeholders.
 
 
