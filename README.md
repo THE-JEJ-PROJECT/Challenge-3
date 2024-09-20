@@ -46,7 +46,7 @@ In the south of Mexico, in Tinum, Yucatan, there exists a monumental site called
 Experience gained:
 
 Eduardo:
-For this challange I learned to get used to probuilder 
+For this challange I learned to get used to probuilder and how to work around its planes and other shapes. On top of that how to make efficient use subdivision of faces or bevels for edges. With this experience, I can facilitate making complex builds out of simple shapes by modifying its vertices. Materials and texturing was another thing I learned about when it came to already established meshes or terrains. Finally I got to use the Unity asset store to import community made models, that facilitate the need of making my own characters or enviroments, which would make for great placeholders.
 
 
 Joxanniel:
